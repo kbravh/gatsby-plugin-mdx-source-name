@@ -16,7 +16,7 @@ This plugin is very useful if you are using multiple instances of `gatsby-source
 
 ## Examples of usage
 
-Add this plugin to you `gatsby-config.js` file above the `gatsby-source-filesystem` plugin. Be sure to include a name for the mdx files in the source plugin.
+Add this plugin to you `gatsby-config.js` file. Be sure to also include the `gatsby-source-filesystem` plugin, and add a `name` for the mdx files in the source plugin.
 
 ``` js
 plugins: [
