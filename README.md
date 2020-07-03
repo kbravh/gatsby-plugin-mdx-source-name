@@ -4,11 +4,18 @@ Add a `gatsby-source-filesystem` source name to Mdx nodes for enhanced querying 
 
 ## How to install
 
-Install with npm
+Install with npm:
 
 ``` BASH
-npm install gatsby-mdx-source-name
+npm install gatsby-plugin-mdx-source-name
 ```
+
+or with yarn:
+
+``` BASH
+yarn add gatsby-plugin-mdx-source-name
+```
+
 
 ## When do I use this plugin?
 

@@ -1,24 +1,24 @@
 {
   "name": "gatsby-plugin-mdx-source-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin that adds a gatsby-source-filesystem source name to Mdx nodes for enhanced querying in GraphQL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kbravh/gatsby-plugin-mdx-source-name.git"
+      "type": "git",
+      "url": "git+https://github.com/kbravh/gatsby-plugin-mdx-source-name.git"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "mdx"
+      "gatsby",
+      "gatsby-plugin",
+      "mdx"
   ],
   "author": "Karey Higuera <karey.higuera@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kbravh/gatsby-plugin-mdx-source-name/issues"
+      "url": "https://github.com/kbravh/gatsby-plugin-mdx-source-name/issues"
   },
   "homepage": "https://github.com/kbravh/gatsby-plugin-mdx-source-name#readme"
 }
