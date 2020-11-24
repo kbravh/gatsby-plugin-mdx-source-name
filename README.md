@@ -27,7 +27,7 @@ Add this plugin to you `gatsby-config.js` file. Be sure to also include the `gat
 
 ``` js
 plugins: [
-`gatsby-plugin-mdx-source-name` ,
+    `gatsby-plugin-mdx-source-name` ,
     {
         resolve: `gatsby-source-filesystem` ,
         options: {
